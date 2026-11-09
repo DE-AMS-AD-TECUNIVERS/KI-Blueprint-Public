@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="330" viewBox="0 0 420 330" font-family="'Comic Sans MS','Segoe Print','Bradley Hand',cursive" role="img" aria-label="Die KI liest Code und Docs als zwei getrennte, komplementäre Quellen">
+  <title>Code und Docs als komplementäre Quellen: Code für das Was, Docs für das Warum</title>
+  <defs>
+    <marker id="ah2" markerWidth="12" markerHeight="12" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L7,4 L0,8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="420" height="330" rx="10" fill="#0b0b0b"/>
+  <text x="210" y="58" fill="#ffffff" font-size="36" font-weight="bold" text-anchor="middle">AI</text>
+  <line x1="192" y1="74" x2="122" y2="196" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" marker-end="url(#ah2)"/>
+  <line x1="228" y1="74" x2="298" y2="196" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" marker-end="url(#ah2)"/>
+  <rect x="36" y="212" width="156" height="84" rx="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <text x="114" y="262" fill="#ffffff" font-size="23" font-weight="bold" text-anchor="middle">Code</text>
+  <rect x="240" y="222" width="144" height="64" rx="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <text x="312" y="262" fill="#ffffff" font-size="23" font-weight="bold" text-anchor="middle">Docs</text>
+</svg>

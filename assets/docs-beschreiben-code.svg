@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="400" viewBox="0 0 260 400" font-family="'Comic Sans MS','Segoe Print','Bradley Hand',cursive" role="img" aria-label="Die KI liest die Docs, die den darunterliegenden Code beschreiben">
+  <title>Docs als beschreibende Schicht über dem Code</title>
+  <defs>
+    <marker id="ah" markerWidth="12" markerHeight="12" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L7,4 L0,8" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="260" height="400" rx="10" fill="#0b0b0b"/>
+  <text x="130" y="56" fill="#ffffff" font-size="36" font-weight="bold" text-anchor="middle">AI</text>
+  <line x1="130" y1="72" x2="130" y2="114" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" marker-end="url(#ah)"/>
+  <rect x="38" y="130" width="184" height="62" rx="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <text x="130" y="170" fill="#ffffff" font-size="23" font-weight="bold" text-anchor="middle">Docs</text>
+  <line x1="46" y1="202" x2="46" y2="268" stroke="#ffffff" stroke-width="4" stroke-dasharray="0.1 12" stroke-linecap="round"/>
+  <line x1="214" y1="202" x2="214" y2="268" stroke="#ffffff" stroke-width="4" stroke-dasharray="0.1 12" stroke-linecap="round"/>
+  <rect x="38" y="278" width="184" height="94" rx="8" fill="none" stroke="#ffffff" stroke-width="3"/>
+  <text x="130" y="333" fill="#ffffff" font-size="23" font-weight="bold" text-anchor="middle">Code</text>
+</svg>
